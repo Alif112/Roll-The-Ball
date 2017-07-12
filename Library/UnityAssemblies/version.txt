@@ -1,0 +1,14 @@
+5.5.0f3:2.8.0.0
+StandaloneWindows64
+H:/unity new/Editor/Data/Managed/UnityEngine.dll
+H:/unity new/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+H:/unity new/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+H:/unity new/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+H:/unity new/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+H:/unity new/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+H:/unity new/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+H:/unity new/Editor/Data/Managed/UnityEditor.dll
+H:/unity new/Editor/Data/Managed/Mono.Cecil.dll
+H:/unity new/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll
+H:/unity new/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll
+H:/unity new/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll
