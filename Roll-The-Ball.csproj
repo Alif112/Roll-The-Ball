@@ -87,8 +87,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\VanishBall10.cs" />
-    <Compile Include="Assets\VanishBall9.cs" />
     <Compile Include="Assets\_Scripts\BackToMenu.cs" />
     <Compile Include="Assets\_Scripts\ChangeScene.cs" />
     <Compile Include="Assets\_Scripts\ProjectileDragging.cs" />
@@ -99,6 +97,7 @@
     <Compile Include="Assets\_Scripts\firstmainscript.cs" />
     <Compile Include="Assets\_Scripts\goToMenuPage.cs" />
     <Compile Include="Assets\_Scripts\level1\VanishBall.cs" />
+    <Compile Include="Assets\_Scripts\level10\VanishBall10.cs" />
     <Compile Include="Assets\_Scripts\level2\VanishBall2.cs" />
     <Compile Include="Assets\_Scripts\level3\VanishBall3.cs" />
     <Compile Include="Assets\_Scripts\level4\VanishBall4.cs" />
@@ -106,6 +105,7 @@
     <Compile Include="Assets\_Scripts\level6\VanishBall6.cs" />
     <Compile Include="Assets\_Scripts\level7\VanishBall7.cs" />
     <Compile Include="Assets\_Scripts\level8\VanishBall8.cs" />
+    <Compile Include="Assets\_Scripts\level9\VanishBall9.cs" />
     <Compile Include="Assets\_Scripts\waitthis.cs" />
   </ItemGroup>
   <ItemGroup>
