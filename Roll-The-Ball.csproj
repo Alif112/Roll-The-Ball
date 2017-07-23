@@ -52,9 +52,6 @@
     <Reference Include="UnityEngine">
       <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -69,9 +66,6 @@
     </Reference>
     <Reference Include="UnityEngine.HoloLens">
       <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Purchasing">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VR">
       <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
@@ -94,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\BackMusic.cs" />
+    <Compile Include="Assets\ResetAll.cs" />
     <Compile Include="Assets\SoundAdd.cs" />
     <Compile Include="Assets\_Scripts\BackToMenu.cs" />
     <Compile Include="Assets\_Scripts\ChangeScene.cs" />
@@ -114,6 +109,8 @@
     <Compile Include="Assets\_Scripts\level7\VanishBall7.cs" />
     <Compile Include="Assets\_Scripts\level8\VanishBall8.cs" />
     <Compile Include="Assets\_Scripts\level9\VanishBall9.cs" />
+    <Compile Include="Assets\_Scripts\lockLevel.cs" />
+    <Compile Include="Assets\_Scripts\lockLevel1.cs" />
     <Compile Include="Assets\_Scripts\waitthis.cs" />
   </ItemGroup>
   <ItemGroup>

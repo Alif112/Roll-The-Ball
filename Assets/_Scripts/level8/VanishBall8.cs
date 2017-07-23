@@ -11,7 +11,7 @@ public class VanishBall8 : MonoBehaviour
         {
             other.gameObject.SetActive(false);
 
-
+            PlayerPrefs.SetInt("Level8Passed", 10);
             Application.LoadLevel(17);
             Debug.Log("Inside method");
         }

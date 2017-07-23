@@ -10,7 +10,7 @@ public class VanishBall9 : MonoBehaviour
         if (other.gameObject.CompareTag("BallTag2"))
         {
             other.gameObject.SetActive(false);
-
+            PlayerPrefs.SetInt("Level9Passed", 10);
 
             Application.LoadLevel(19);
             Debug.Log("Inside method");

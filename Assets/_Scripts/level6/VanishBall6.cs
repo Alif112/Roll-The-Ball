@@ -13,7 +13,7 @@ public class VanishBall6 : MonoBehaviour
         {
             other.gameObject.SetActive(false);
 
-
+            PlayerPrefs.SetInt("Level6Passed", 10);
             Application.LoadLevel(13);
             Debug.Log("Inside method6666");
         }
